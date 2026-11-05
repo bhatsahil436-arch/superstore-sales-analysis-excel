@@ -41,5 +41,6 @@ Open `Superstore_Excel_Dashboard.xlsx` and go to the **ANALYSIS** sheet.
 
 ## Related Projects
 - Power BI dashboard: [https://github.com/bhatsahil436-arch/-superstore-sales-analysis-powerbi]
-- SQL case study: [your link]
+- SQL case study: [https://github.com/bhatsahil436-arch/superstore-sql-case-study.git]
+- Python EDA:[]
 
