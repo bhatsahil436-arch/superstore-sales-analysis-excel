@@ -33,8 +33,8 @@ SORTBY, XLOOKUP, pivot tables, ranking, running totals, helper columns,
 data cleaning and validation, charts.
 
 ## Screenshots
-![Dashboard](screenshots/1-dashboard.png)
-![Clean Checks](screenshots/2-clean-checks.png)
+![Dashboard](SUPERSTORE-SALES-ANALYSIS-EXCEL/screenshots/1-dashboard.png.png)
+![Clean Checks](SUPERSTORE-SALES-ANALYSIS-EXCEL/screenshots/2-clean-checks.png.png)
 
 ## Where to find the answers
 Open `Superstore_Excel_Dashboard.xlsx` and go to the **ANALYSIS** sheet.
